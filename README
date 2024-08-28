@@ -1,0 +1,53 @@
+# Projeto: Classificação de Notas
+
+Este projeto é um programa em Python que classifica uma nota fornecida pelo usuário em diferentes categorias, como "Ótimo", "Bom", "Suficiente", ou "Insuficiente". O objetivo é demonstrar o uso de estruturas condicionais para a categorização de valores numéricos.
+
+## Índice
+
+- [Descrição](#descrição)
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Como Executar o Projeto](#como-executar-o-projeto)
+- [Exemplos de Uso](#exemplos-de-uso)
+- [Contribuições](#contribuições)
+- [Licença](#licença)
+- [Contato](#contato)
+
+## Descrição
+
+O programa solicita ao usuário que insira uma nota e, com base nesse valor, classifica a nota em uma das seguintes categorias:
+- **Ótimo:** 0 a 9
+- **Bom:** 10 a 7
+- **Suficiente:** 8 a 5
+- **Insuficiente:** abaixo de 5
+
+## Funcionalidades
+
+- Solicita ao usuário que insira uma nota.
+- Classifica a nota em uma das categorias com base no valor fornecido.
+- Exibe uma mensagem informando a classificação da nota.
+
+## Tecnologias Utilizadas
+
+- **Linguagem de Programação:** Python 3.x
+
+## Como Executar o Projeto
+
+### Pré-requisitos
+
+- Python 3.x instalado.
+
+### Passos para Execução
+
+1. **Clone o repositório:**
+
+   ```bash
+   git clone https://github.com/Cristina1607/Classificação_de_nota.git
+2. Navegue até o diretório do projeto:
+  cd nome-do-repositorio
+3. Execute o programa:
+  python3 nome_do_arquivo.py
+4. Digite a nota quando solicitado.
+
+Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
