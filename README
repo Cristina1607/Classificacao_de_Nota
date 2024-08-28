@@ -15,7 +15,7 @@ Este projeto é um programa em Python que classifica uma nota fornecida pelo usu
 
 ## Descrição
 
-O programa solicita ao usuário que insira uma nota e, com base nesse valor, classifica a nota em uma das seguintes categorias:
+O programa solicita ao usuário que insira uma nota e, com base nesse valor, classifica a nota em uma das seguintes categorias: 
 - **Ótimo:** 0 a 9
 - **Bom:** 10 a 7
 - **Suficiente:** 8 a 5
