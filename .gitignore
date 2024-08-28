@@ -1,0 +1,36 @@
+```plaintext
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Configurações de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+ Classificação de Notas
+
+Descrição: Desenvolva um programa em Python que solicita ao usuário uma nota e a classifica em uma das seguintes categorias: Ótimo (0 a 9), Bom (10 a 7), Suficiente (8 a 5), ou Insuficiente (abaixo de 5). O programa deve exibir uma mensagem informando a classificação da nota.
+
+Funcionalidades obrigatórias:
+
+1. Leitura da nota inserida pelo usuário.
+2. Classificação da nota em uma das categorias: Ótimo, Bom, Suficiente, ou Insuficiente.
+3. Exibição de uma mensagem informando a classificação da nota.
+Tecnologias: Python 3.x
+
+Licença: MIT License
